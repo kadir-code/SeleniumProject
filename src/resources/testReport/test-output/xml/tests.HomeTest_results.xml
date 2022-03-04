@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumProject"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4,489">
+    <properties></properties>
+
+
+
+            <testcase
+                name="simpleHomeTests"
+                time="4,489"
+                classname="tests.HomeTest">
+            </testcase>
+</testsuite>
